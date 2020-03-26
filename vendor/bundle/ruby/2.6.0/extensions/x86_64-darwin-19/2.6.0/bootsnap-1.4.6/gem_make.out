@@ -1,0 +1,15 @@
+current directory: /Users/petercwilson/ruby_projects/rails_6_projects/finance-tracker/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.6/ext/bootsnap
+/Users/petercwilson/.rvm/rubies/ruby-2.6.3/bin/ruby -I /Users/petercwilson/.rvm/rubies/ruby-2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200325-69870-1s8d6y3.rb extconf.rb
+creating Makefile
+
+current directory: /Users/petercwilson/ruby_projects/rails_6_projects/finance-tracker/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/petercwilson/ruby_projects/rails_6_projects/finance-tracker/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/petercwilson/ruby_projects/rails_6_projects/finance-tracker/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.6/ext/bootsnap
+make "DESTDIR=" install
+/usr/local/opt/coreutils/bin/ginstall -c -m 0755 bootsnap.bundle ./.gem.20200325-69870-1sdnqyq/bootsnap
